@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm working on websites & mobileApllication & telegram bots
+i'm working on websites & mobileApllications & telegram bots
 
 
 # 💻 Tech Stack:
