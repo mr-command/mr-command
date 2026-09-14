@@ -4,5 +4,5 @@
 
 # Tech Stack
 
-[Dart](https://img.shields.io/badge/github-repo-blue?logo=dart&labelColor=black)
-        [Flutter](https://img.shields.io/badge/github-repo-blue?logo=flutter&labelColor=cyan)
+![Dart](https://img.shields.io/badge/dart-white?logo=dart&labelColor=black)
+        ![Flutter](https://img.shields.io/badge/github-repo-blue?logo=flutter&labelColor=cyan)
