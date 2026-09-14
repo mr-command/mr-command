@@ -1,6 +1,20 @@
+# Hey, I'm Mohammadreza
 
-## Im Currently Working on Mobile Applications
+## a Software Developer who focused on Mobile & Backend development
 
+# Tech Stack
 
-## Languages 
-- ![Flutter](https://img.shields.io/badge/Flutter-3.47.1-02569B?style=for-the-badge&logo=flutter)
+### Development 
+|── [Dart](https://img.shields.io/badge/github-repo-blue?logo=dart&labelColor=black)
+│       └── [Flutter](https://img.shields.io/badge/github-repo-blue?logo=flutter&labelColor=cyan)
+│           ├── Riverpod
+│           ├── Dio
+│           ├── Drift
+│           └── Media Kit
+│
+└─ Python
+        ├── Django
+        │   └── Django REST Framework
+        │
+        └── FastAPI
+            └── Pydantic
