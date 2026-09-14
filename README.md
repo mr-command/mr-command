@@ -42,7 +42,6 @@ a Software Developer who focused on Mobile & Backend development
 ![mysql](https://img.shields.io/badge/mysql-092328?style=for-the-badge&logo=mysql&logoColor=8BBB92&labelColor=092328)<br>
 
 ## Tools & Skills
-<br><br>
 ![redis](https://img.shields.io/badge/redis-092328?style=for-the-badge&logo=redis&logoColor=8BBB92&labelColor=092328)<br>
 ![docker](https://img.shields.io/badge/docker-092328?style=for-the-badge&logo=docker&logoColor=8BBB92&labelColor=092328)<br>
 ![git](https://img.shields.io/badge/git-092328?style=for-the-badge&logo=git&logoColor=8BBB92&labelColor=092328)<br>
