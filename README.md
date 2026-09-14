@@ -4,17 +4,5 @@
 
 # Tech Stack
 
-### Development 
-|── [Dart](https://img.shields.io/badge/github-repo-blue?logo=dart&labelColor=black)
-│       └── [Flutter](https://img.shields.io/badge/github-repo-blue?logo=flutter&labelColor=cyan)
-│           ├── Riverpod
-│           ├── Dio
-│           ├── Drift
-│           └── Media Kit
-│
-└─ Python
-        ├── Django
-        │   └── Django REST Framework
-        │
-        └── FastAPI
-            └── Pydantic
+[Dart](https://img.shields.io/badge/github-repo-blue?logo=dart&labelColor=black)
+        [Flutter](https://img.shields.io/badge/github-repo-blue?logo=flutter&labelColor=cyan)
