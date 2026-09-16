@@ -54,11 +54,7 @@ A Django-based backend with authentication, REST APIs and Flutter integration.
 ## Currently Learning
 
 - Advanced backend architecture
-- Clean Architecture
-- MVVM
 - System Design
-- Redis and WebSockets
-- Better Git & GitHub workflows
 
 ---
 
