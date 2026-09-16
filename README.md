@@ -4,8 +4,8 @@ a Software Developer who focused on Mobile & Backend development
 
 
 ## languages
-![Dart](https://img.shields.io/badge/Dart-F7EAE0?style=for-the-badge&logo=dart&logoColor=8B1E2D&labelColor=F7EAE0)
-![Python](https://img.shields.io/badge/Python-F7EAE0?style=for-the-badge&logo=python&logoColor=8B1E2D&labelColor=F7EAE0)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=blue&labelColor=black)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black)
 
 <br>
 
