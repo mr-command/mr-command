@@ -7,14 +7,13 @@ a Software Developer who focused on Mobile & Backend development
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=blue&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black)
 
-<br>
 
 ## frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=black)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=2A6B5C&labelColor=black)
 ![FastApi](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi&logoColor=91AC67&labelColor=black)
 
-<br><br>
+
 ## DataBases & Storages
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=black)
 ![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=blue&labelColor=black)
