@@ -36,28 +36,12 @@ a Software Developer who focused on Mobile & Backend development
 - Real-time communication with WebSockets
 - API development with Django REST Framework and FastAPI
 
-## Projects
+## GitHub Stats
 
-### Taskly
-
-A Flutter task management application built with Riverpod and Drift.
-
-### Nexar Music
-
-A Flutter music player focused on local music playback and a polished
-mobile UI.
-
-### Nexar Platform
-
-A Django-based backend with authentication, REST APIs and Flutter integration.
-
-## Currently Learning
-
-- Advanced backend architecture
-- System Design
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-command&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-command&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
 
 # Build things. Break things. Understand why.
 
