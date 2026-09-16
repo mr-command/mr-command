@@ -27,7 +27,40 @@ a Software Developer who focused on Mobile & Backend development
 ![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=FF4800&labelColor=black)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 
+## What I Work With
 
+- Mobile applications with Flutter
+- REST APIs and backend services
+- Authentication and authorization
+- Local and remote data management
+- Real-time communication with WebSockets
+- API development with Django REST Framework and FastAPI
+
+## Projects
+
+### Taskly
+
+A Flutter task management application built with Riverpod and Drift.
+
+### Nexar Music
+
+A Flutter music player focused on local music playback and a polished
+mobile UI.
+
+### Nexar Platform
+
+A Django-based backend with authentication, REST APIs and Flutter integration.
+
+## Currently Learning
+
+- Advanced backend architecture
+- Clean Architecture
+- MVVM
+- System Design
+- Redis and WebSockets
+- Better Git & GitHub workflows
+
+---
 
 
 # Build things. Break things. Understand why.
