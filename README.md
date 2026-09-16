@@ -10,7 +10,7 @@ a Software Developer who focused on Mobile & Backend development
 <br>
 
 ## frameworks
-![Flutter](https://img.shields.io/badge/Flutter-F7EAE0?style=for-the-badge&logo=flutter&logoColor=8B1E2D&labelColor=F7EAE0)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=black)
 - drift
 - sqlite
 - Hive
@@ -19,7 +19,7 @@ a Software Developer who focused on Mobile & Backend development
 - dio
 
 <br><br>
-![Django](https://img.shields.io/badge/django-F7EAE0?style=for-the-badge&logo=django&logoColor=8B1E2D&labelColor=F7EAE0)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=2A6B5C&labelColor=black)
 - Django channels
 - Django jsonwebtoken
 - Celery
@@ -27,7 +27,7 @@ a Software Developer who focused on Mobile & Backend development
 - Django REST Framework
 
 <br><br>
-![FastApi](https://img.shields.io/badge/fastapi-F7EAE0?style=for-the-badge&logo=fastapi&logoColor=8B1E2D&labelColor=F7EAE0)
+![FastApi](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi&logoColor=91AC67&labelColor=black)
 <br>
 - Pydantic
 - Uvicorn
@@ -36,17 +36,17 @@ a Software Developer who focused on Mobile & Backend development
 
 <br><br>
 ## DataBases & Storages
-![postgresql](https://img.shields.io/badge/postgresql-F7EAE0?style=for-the-badge&logo=postgresql&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![sqlite](https://img.shields.io/badge/sqlite-F7EAE0?style=for-the-badge&logo=sqlite&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![mysql](https://img.shields.io/badge/mysql-F7EAE0?style=for-the-badge&logo=mysql&logoColor=8B1E2D&labelColor=F7EAE0)<br>
+![postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=black)<br>
+![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=blue&labelColor=black)<br>
+![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=black)<br>
 
 ## Tools & Skills
-![redis](https://img.shields.io/badge/redis-F7EAE0?style=for-the-badge&logo=redis&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![docker](https://img.shields.io/badge/docker-F7EAE0?style=for-the-badge&logo=docker&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![git](https://img.shields.io/badge/git-F7EAE0?style=for-the-badge&logo=git&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![JWT](https://img.shields.io/badge/jwt-F7EAE0?style=for-the-badge&logo=jsonwebtokens&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![postman](https://img.shields.io/badge/postman-F7EAE0?style=for-the-badge&logo=postman&logoColor=8B1E2D&labelColor=F7EAE0)<br>
-![linux](https://img.shields.io/badge/linux-F7EAE0?style=for-the-badge&logo=linux&logoColor=8B1E2D&labelColor=F7EAE0)
+![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=8B1E2D&labelColor=black)<br>
+![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue&labelColor=black)<br>
+![git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange&labelColor=black)<br>
+![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black)<br>
+![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=orange&labelColor=black)<br>
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 
 
 
