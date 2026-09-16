@@ -37,8 +37,8 @@ a Software Developer who focused on Mobile & Backend development
 - API development with Django REST Framework and FastAPI
 
 ## GitHub Stats
-![Mohammad reza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=radical)
 
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=mr-command&theme=midnight)
 
 # Build things. Break things. Understand why.
 
