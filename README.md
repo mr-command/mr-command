@@ -38,7 +38,10 @@ a Software Developer who focused on Mobile & Backend development
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-command&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-languages.svg" height="170" />
+</p>
 
 # Build things. Break things. Understand why.
 
