@@ -39,9 +39,10 @@ a Software Developer who focused on Mobile & Backend development
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-languages.svg" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-command&show_icons=true&hide_border=true&bg_color=092328&title_color=8BBB92&text_color=8BBB92&icon_color=8BBB92" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-command&layout=compact&hide_border=true&bg_color=092328&title_color=8BBB92&text_color=8BBB92" height="170" />
 </p>
+
 
 # Build things. Break things. Understand why.
 
